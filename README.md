@@ -259,19 +259,13 @@ docker-compose down
 
 ### Final Year Engineering Project
 
-* Abhi Jadhav
-* Team Member 2
-* Team Member 3
-* Team Member 4
-
-Project Guide:
-
-* Faculty Mentor
+* Abhi Jadhav & Team Final Year Project – PulseGuard
+*
 
 ---
 
 ## 📚 References
-
+ 
 * WHO Cardiovascular Disease Reports
 * TensorFlow Documentation
 * Librosa Audio Processing Library
