@@ -260,7 +260,6 @@ docker-compose down
 ### Final Year Engineering Project
 
 * Abhi Jadhav & Team Final Year Project – PulseGuard
-*
 
 ---
 
